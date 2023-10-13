@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jeffrey-05
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Jeffrey
+- 👀 I’m interested in ...Machine Learning 
 - 🌱 I’m currently learning ...Artificial intelligence 
-- 💞️ I’m looking to collaborate on ...programers used for perdiction
+- 💞️ I’m looking to collaborate on ...Programers 
 - 📫 How to reach me ...on WhatsApp - 6384505859
 
 <!---
